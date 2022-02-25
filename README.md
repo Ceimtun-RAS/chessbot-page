@@ -21,6 +21,6 @@ Página de presentación del proyecto Chessbot - Un robot SCARA autónomo de aje
 CeimtunRAS y el equipor de chessbot. 
 
 
-
+--- 
 Hecho con <3 desde la Universidad Nacional de Colombia
 
