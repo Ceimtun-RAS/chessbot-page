@@ -1,0 +1,41 @@
+# site settings
+title: Chessbot
+subtitle: by Ceimtun-RAS
+email: amoralesma@una.edu.co
+description: Brazo ajedrecista robótico autónomo 
+baseurl: "/chessbot-page" # the subpath of your site, e.g. /blog
+url: https://ceimtun-ras.github.io # the base hostname & protocol for your site
+author: Chessbot-Team
+street_address: 1234 Somewhere Road
+city: Bogotá DC
+state: Bogotá DC
+country: Colombia 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/Ceimtun-RAS
+  GitLab:
+  Instagram: https://www.instagram.com/ceimtun/?hl=es
+  LinkedIn: https://www.linkedin.com/company/ceimtun-ras/
+  Twitter: https://twitter.com/CEIMTUN
+  Facebook: https://www.facebook.com/RAS.UNAL
+
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
