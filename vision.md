@@ -8,7 +8,7 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-asdasdas
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -16,9 +16,8 @@ asdasdas
 			<h1>asdasdasdas</h1>
 		</header>
 
-#asd
 <!-- Content -->
-<h2 id="content">Objetivos</h2>
+<h2 id="content">Objetivos Principales</h2>
 <p>a</p>
 
 <h2>¿Qué es la visión artificial?</h2>
