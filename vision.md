@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>asdasdasdas</h1>
+			<h1>Un poco de contexto (Para no perder) </h1>
 		</header>
 
 <!-- Content -->
