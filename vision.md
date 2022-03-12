@@ -36,17 +36,6 @@ nav-menu: true
 		<li>Visión artificial + robótica para bin picking.</li>
 	</ul>
 
-<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-
-
-
-
 
 <div class="row">
 	<div class="6u 12u$(small)">
