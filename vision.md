@@ -13,13 +13,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>{{ page.title }}</h1>
+			<h1>asdasdasdas</h1>
 		</header>
 
-#asd
 <!-- Content -->
+<<<<<<< HEAD
 <h2 id="content">Objetivos</h2>
 <p>als</p>
+=======
+<h2 id="content">Objetivos Principales</h2>
+<p>a</p>
+>>>>>>> 723fa916313c964c6869455bd8bae0c8e5cd02ad
 
 <h2>¿Qué es la visión artificial?</h2>
 <p>La visión artificial, también conocida como visión por computadora (del inglés computer vision) o visión técnica, es una disciplina científica que incluye métodos para adquirir, procesar, analizar y comprender las imágenes del mundo real con el fin de producir información numérica o simbólica para que puedan ser tratados por un ordenador. Tal y como los humanos usamos nuestros ojos y cerebros para comprender el mundo que nos rodea, la visión artificial trata de producir el mismo efecto para que los ordenadores puedan percibir y comprender una imagen o secuencia de imágenes y actuar según convenga en una determinada situación. Esta comprensión se consigue gracias a distintos campos como la geometría, la estadística, la física y otras disciplinas. La adquisición de los datos se consigue por varios medios como secuencias de imágenes, vistas desde varias cámaras de video o datos multidimensionales desde un escáner médico.</p>
@@ -40,7 +44,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Visión</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Ser los mejores.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Misión</h3>
