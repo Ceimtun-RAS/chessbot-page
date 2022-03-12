@@ -23,6 +23,19 @@ nav-menu: true
 <h2>¿Qué es la visión artificial?</h2>
 <p>La visión artificial, también conocida como visión por computadora (del inglés computer vision) o visión técnica, es una disciplina científica que incluye métodos para adquirir, procesar, analizar y comprender las imágenes del mundo real con el fin de producir información numérica o simbólica para que puedan ser tratados por un ordenador. Tal y como los humanos usamos nuestros ojos y cerebros para comprender el mundo que nos rodea, la visión artificial trata de producir el mismo efecto para que los ordenadores puedan percibir y comprender una imagen o secuencia de imágenes y actuar según convenga en una determinada situación. Esta comprensión se consigue gracias a distintos campos como la geometría, la estadística, la física y otras disciplinas. La adquisición de los datos se consigue por varios medios como secuencias de imágenes, vistas desde varias cámaras de video o datos multidimensionales desde un escáner médico.</p>
 
+
+<h4>Aplicaciones de la visión artificial</h4>
+    <ul>
+		<li>Visión artificial para la Detección de defectos.</li>
+		<li>Visión artificial para la Metrología.</li>
+		<li>Visión artificial para la Detección de intrusos.</li>
+		<li>Visión artificial para la Verificación de montajes.</li>
+		<li>Visión artificial para Lector de pantallas.</li>
+		<li>Visión artificial para la Lectura de códigos y caracteres (OCR).</li>
+		<li>Visión artificial + robótica para bin picking.</li>
+	</ul>
+
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Visión</h3>
