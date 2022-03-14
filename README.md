@@ -1,5 +1,6 @@
 # Chessbot 
 
-Un robot SCARA autónomo de ajedrez. 
+Un robot SCARA (RRP) autónomo de ajedrez. 
 
-# Descripción 
+## Descripción 
+
